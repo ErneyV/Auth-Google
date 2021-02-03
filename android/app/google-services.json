@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076191944137",
+    "project_id": "auth-3f2e9",
+    "storage_bucket": "auth-3f2e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076191944137:android:08a4de7b7d07dff897dc18",
+        "android_client_info": {
+          "package_name": "com.evargas.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076191944137-rvc0d1oe3mijmvuo425mjo5g4tqdnd99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evargas.auth_app",
+            "certificate_hash": "15edeb0b442ccfde87c945bb9a80d2ed8b09ceb0"
+          }
+        },
+        {
+          "client_id": "1076191944137-q26rn86nii78oq86huvpv86meo1u9791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_73KA-y_V8DF85K9Ap9O5lxI96Wzs3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076191944137-q26rn86nii78oq86huvpv86meo1u9791.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
